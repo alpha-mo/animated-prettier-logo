@@ -1,0 +1,40 @@
+@import url('./animation.css');
+
+.l7 * {
+  --duration: 1s;
+  --delay: 400ms;
+  transition: all var(--duration) cubic-bezier(0.67, 0.19, 0.58, 0.91)
+    var(--delay);
+}
+
+.l7 path:nth-child(1).p40 {
+  stroke-dashoffset: -340;
+}
+
+.l7 path:nth-child(2).p80 {
+  stroke-dashoffset: -400;
+}
+
+.l7 path:nth-child(3).p40 {
+  stroke-dashoffset: -500;
+}
+
+.l7 path:nth-child(4).p40 {
+  stroke-dashoffset: -560;
+}
+
+.l7 path:nth-child(5).p40 {
+  stroke-dashoffset: -620;
+}
+
+.l7 path:nth-child(6).p30 {
+  stroke-dashoffset: -680;
+}
+
+.l7 path:nth-child(7).p60 {
+  stroke-dashoffset: -730;
+}
+
+.l7 path:nth-child(8).p120 {
+  stroke-dashoffset: -810;
+}

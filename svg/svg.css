@@ -1,0 +1,72 @@
+.gray {
+  stroke: #4d616e;
+}
+.blue {
+  stroke: #56b3b4;
+}
+.red {
+  stroke: #ea5e5e;
+}
+.yellow {
+  stroke: #f7ba3e;
+}
+.pink {
+  stroke: #bf85bf;
+}
+
+.dash {
+  stroke-linecap: round;
+  stroke-width: 10;
+}
+
+.p10 {
+  stroke-dasharray: 10 680;
+}
+
+.p20 {
+  stroke-dasharray: 20 670;
+}
+
+.p30 {
+  stroke-dasharray: 30 660;
+}
+
+.p40 {
+  stroke-dasharray: 40 650;
+}
+
+.p50 {
+  stroke-dasharray: 50 640;
+}
+
+.p60 {
+  stroke-dasharray: 60 630;
+}
+
+.p70 {
+  stroke-dasharray: 70 620;
+}
+
+.p80 {
+  stroke-dasharray: 80 610;
+}
+
+.p90 {
+  stroke-dasharray: 90 600;
+}
+
+.p100 {
+  stroke-dasharray: 100 590;
+}
+
+.p110 {
+  stroke-dasharray: 110 580;
+}
+
+.p120 {
+  stroke-dasharray: 120 570;
+}
+
+.p130 {
+  stroke-dasharray: 130 560;
+}

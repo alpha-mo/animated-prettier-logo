@@ -1,0 +1,19 @@
+.logo:hover .l10 path:nth-child(1).p130 {
+  stroke-dashoffset: -110;
+}
+
+.logo:hover .l10 path:nth-child(2).p20 {
+  stroke-dashoffset: -260;
+}
+
+.logo:hover .l10 path:nth-child(3).p20 {
+  stroke-dashoffset: -300;
+}
+
+.logo:hover .l10 path:nth-child(4).p50 {
+  stroke-dashoffset: -340;
+}
+
+.logo:hover .l10 path:nth-child(5).p100 {
+  stroke-dashoffset: -410;
+}

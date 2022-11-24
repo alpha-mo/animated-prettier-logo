@@ -1,0 +1,27 @@
+.logo:hover .l1 path:nth-child(1).p40 {
+  stroke-dashoffset: -40;
+}
+
+.logo:hover .l1 path:nth-child(2).p60 {
+  stroke-dashoffset: -100;
+}
+
+.logo:hover .l1 path:nth-child(3).p60 {
+  stroke-dashoffset: -180;
+}
+
+.logo:hover .l1 path:nth-child(4).p120 {
+  stroke-dashoffset: -260;
+}
+
+.logo:hover .l1 path:nth-child(5).p50 {
+  stroke-dashoffset: -400;
+}
+
+.logo:hover .l1 path:nth-child(6).p20 {
+  stroke-dashoffset: -470;
+}
+
+.logo:hover .l1 path:nth-child(7).p120 {
+  stroke-dashoffset: -510;
+}

@@ -1,0 +1,35 @@
+.logo:hover .l4 path:nth-child(1).p80 {
+  stroke-dashoffset: -20;
+}
+
+.logo:hover .l4 path:nth-child(2).p30 {
+  stroke-dashoffset: -120;
+}
+
+.logo:hover .l4 path:nth-child(3).p40 {
+  stroke-dashoffset: -170;
+}
+
+.logo:hover .l4 path:nth-child(4).p10 {
+  stroke-dashoffset: -230;
+}
+
+.logo:hover .l4 path:nth-child(5).p40 {
+  stroke-dashoffset: -260;
+}
+
+.logo:hover .l4 path:nth-child(6).p40 {
+  stroke-dashoffset: -320;
+}
+
+.logo:hover .l4 path:nth-child(7).p50 {
+  stroke-dashoffset: -380;
+}
+
+.logo:hover .l4 path:nth-child(8).p10 {
+  stroke-dashoffset: -450;
+}
+
+.logo:hover .l4 path:nth-child(9).p130 {
+  stroke-dashoffset: -480;
+}

@@ -1,0 +1,24 @@
+@import url('./animation.css');
+
+.l12 * {
+  --duration: 1s;
+  --delay: 350ms;
+  transition: all var(--duration) cubic-bezier(0.67, 0.19, 0.58, 0.91)
+    var(--delay);
+}
+
+.l12 path:nth-child(1).p60 {
+  stroke-dashoffset: 200;
+}
+
+.l12 path:nth-child(2).p120 {
+  stroke-dashoffset: 120;
+}
+
+.l12 path:nth-child(3).p80 {
+  stroke-dashoffset: -20;
+}
+
+.l12 path:nth-child(4).p50 {
+  stroke-dashoffset: -120;
+}

@@ -1,0 +1,29 @@
+@import url('./animation.css');
+
+.l5 * {
+  transition: all 1s cubic-bezier(0.67, 0.19, 0.58, 0.91) 320ms;
+}
+
+.l5 path:nth-child(1).p110 {
+  stroke-dashoffset: -310;
+}
+
+.l5 path:nth-child(2).p100 {
+  stroke-dashoffset: -440;
+}
+
+.l5 path:nth-child(3).p40 {
+  stroke-dashoffset: -560;
+}
+
+.l5 path:nth-child(4).p40 {
+  stroke-dashoffset: -620;
+}
+
+.l5 path:nth-child(5).p50 {
+  stroke-dashoffset: -680;
+}
+
+.l5 path:nth-child(6).p130 {
+  stroke-dashoffset: -750;
+}
