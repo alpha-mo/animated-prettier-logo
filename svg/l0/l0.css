@@ -1,7 +1,10 @@
 @import url('./animation.css');
 
 .l0 * {
-  transition: all 1s cubic-bezier(0.67, 0.19, 0.58, 0.91) 50ms;
+  --duration: 1s;
+  --delay: 50ms;
+  transition: all var(--duration) cubic-bezier(0.67, 0.19, 0.58, 0.91)
+    var(--delay);
 }
 
 .l0 path:nth-child(1).p40 {

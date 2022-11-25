@@ -28,7 +28,7 @@
 }
 
 .l6 path:nth-child(6).p80 {
-  stroke-dashoffset: 40;
+  stroke-dashoffset: -40;
 }
 
 .l6 path:nth-child(7).p100 {
